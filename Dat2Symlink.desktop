@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+	[Desktop Entry]
+	Name=Dat2Symlink
+	Exec=curl https://raw.githubusercontent.com/ErAzOr2k/Dat2Symlink/main/Dat2Symlink.sh | bash
+	Icon=steamdeck-gaming-return
+	Terminal=true
+	Type=Application
+	StartupNotify=false
