@@ -55,6 +55,7 @@ echo "0" > "$PROGRESS"
 )  |  zenity --progress \
              --title="Symlink..." \
              --percentage=0 \
+	     --time-remaining \
              --no-cancel \
              --pulsate \
              --auto-close \
